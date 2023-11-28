@@ -1,4 +1,4 @@
-# Investigation of Air Quality in Santa Barbara due to Thomas Fire
+# Investigation of Air Quality in Santa Barbara during Thomas fire event
 
 ## Description of the Repository
 

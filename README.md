@@ -7,6 +7,20 @@ The repository contains end to end information on investigationg the air quality
 Thomas area during fire. It utilizes invisible color bands to correctly detect fires area and 
 plots the measure of air quality. 
 
+How the data is structured:
+├── AQI_Thomas.ipynb
+├── LICENSE
+├── README.md
+└── data
+    ├── California_Fire_Perimeters_2017
+    │   ├── California_Fire_Perimeters_2017.cpg
+    │   ├── California_Fire_Perimeters_2017.dbf
+    │   ├── California_Fire_Perimeters_2017.prj
+    │   ├── California_Fire_Perimeters_2017.shp
+    │   └── California_Fire_Perimeters_2017.shx
+    └── landsat8-2018-01-26-sb-simplified.nc
+
+
 - Data citation
 False color raster image was archieved from the Microsoft Planetary Computer: 
 https://planetarycomputer.microsoft.com/catalog
